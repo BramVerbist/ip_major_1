@@ -150,3 +150,6 @@ dist
 /installer/deps
 
 # End of https://www.toptal.com/developers/gitignore/api/node,elixir,phoenix
+
+# Custom ignore rules
+/test-reports
